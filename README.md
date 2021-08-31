@@ -12,9 +12,9 @@ Projeto API - 5º Semestre com a empresa GSW para desenvolvimento de loja de ve�
 
 **Developer:** João Pedro Rabello Brasil de Mecenas [LinkedIn](https://www.linkedin.com/in/joao-pedro-m-943a74b6)
 
-**Developer:** Diego Rodrigo da Silva [LinkedIn](https://www.linkedin.com/)
+**Developer:** Diego Rodrigo da Silva [LinkedIn](https://www.linkedin.com/in/diego-s-7a97a4186/)
 
-**Developer:** Matheus Prestes [LinkedIn](https://www.linkedin.com/in/mateus-prestes-11569118a/)
+**Developer:** Matheus Prestes Teodoro Alves [LinkedIn](https://www.linkedin.com/in/mateus-prestes-11569118a/)
 
 **Developer:** Davi Silva Martins das Neves [LinkedIn](https://www.linkedin.com/in/davi-neves-a50573201/)
 
