@@ -52,7 +52,7 @@ Projeto API - 5º Semestre com a empresa GSW para desenvolvimento de loja de ve�
 | Documento de estratégia de branchs/versionamento.   |  |
 | Documentação das APIs. |  |
 | Relatório com histórico de build automatizado.  |  |
-| **Requisitos Funcionais Associados:** RF1, RF4, RF5. |  |
+
 
 <hr>
 
