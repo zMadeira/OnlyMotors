@@ -63,7 +63,7 @@ Projeto API - 5º Semestre com a empresa GSW para desenvolvimento de loja de ve�
 | Sistema de Login e Logout para usuários cadastrados.    |  |
 | O usuário pode atualizar ou retirar um anúncio do ar - UPDATE e DELETE.    |  |
 | Painel de gerenciamento de anúncios do usuário com informações particulares    |  |
-| **Requisitos Funcionais Associados:** RF2, RF4, RF5, RF7. |  |
+
 
 <hr>
 
@@ -74,7 +74,7 @@ Projeto API - 5º Semestre com a empresa GSW para desenvolvimento de loja de ve�
 | Chat simples em tempo real entre cliente e comprador. |  |
 | Atualização no painel para apresentar informações de contato |  |
 | Pesquisa de anúncios. |  |
-| **Requisitos Funcionais Associados:** RF3, RF4, RF5, RF6. |  |
+
 
 <hr>
 
@@ -83,7 +83,7 @@ Projeto API - 5º Semestre com a empresa GSW para desenvolvimento de loja de ve�
 | ------------------------------------------------------------------- | --------------- |
 | Geração de relatório com anúncio - PDF com as informações. |  |
 | Atualização da documentação conforme as entregas. |  |
-| **Requisitos Funcionais Associados:** RF8. |  |
+
 
 
 
