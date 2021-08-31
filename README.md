@@ -44,6 +44,11 @@ Projeto API - 5º Semestre com a empresa GSW para desenvolvimento de loja de ve�
 | O usuário deve ser capaz de anunciar seu veículo através da plataforma. |  |
 | O anúncio deve estar visível para todos os usuários. |  |
 | O cadastro do anúncio deve estar disponível na base de dados. |  |
+| Desenho da Arquitetura aplicação. |  |
+| Documento de implantação |  |
+| Documento de estratégia de branchs/versionamento.   |  |
+| Documentação das APIs. |  |
+| Relatório com histórico de build automatizado.  |  |
 | **Requisitos Funcionais Associados:** RF1, RF4. |  |
 
 <hr>
@@ -55,7 +60,7 @@ Projeto API - 5º Semestre com a empresa GSW para desenvolvimento de loja de ve�
 | Sistema de Login e Logout para usuários cadastrados.    |  |
 | O usuário pode atualizar ou retirar um anúncio do ar - UPDATE e DELETE.    |  |
 | Painel de gerenciamento de anúncios do usuário com informações particulares    |  |
-| **Requisitos Funcionais Associados:** RF2, RF4, RF7. |  |
+| **Requisitos Funcionais Associados:** RF2, RF4, RF5, RF7. |  |
 
 <hr>
 
@@ -63,15 +68,19 @@ Projeto API - 5º Semestre com a empresa GSW para desenvolvimento de loja de ve�
 | ------------------------------------------------------------------- | --------------- |
 | Cadastro de anúncios a partir de um arquivo CSV. |  |
 | Template de CSV disponibilizado pela aplicação. |  |
-| Geração de relatório com anúncio - PDF com as informações. |  |
+| Chat simples em tempo real entre cliente e comprador. |  |
+| Atualização da documentação conforme as entregas. |  |
+| Pesquisa de anúncios. |  |
 | **Requisitos Funcionais Associados:** RF1, RF4, RF7. |  |
 
 <hr>
 
 
-| Sprint 4 - Adicionar Revisão:                                       | Conclusão |
+| Sprint 4 - Comunicação cliente e comprador:                                       | Conclusão |
 | ------------------------------------------------------------------- | --------------- |
-|  Usuário poderá pedir a revisão de uma ata existente, devendo informar o assunto da revisão Responsável da Revisão e Prazo da Revisão. Revisões pode ser incluídas, alteradas e excluídas quantas vezes forem necessárias|  |
+| Geração de relatório com anúncio - PDF com as informações. |  |
+| Atualização no painel para apresentar informações de contato |  |
+| **Requisitos Funcionais Associados:** RF3, . |  |
 
 
 
