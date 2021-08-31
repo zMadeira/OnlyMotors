@@ -14,6 +14,8 @@ Projeto API - 5Âº Semestre com a empresa GSW para desenvolvimento de loja de veÃ
 
 **Developer:** Diego Rodrigo da Silva [LinkedIn](https://www.linkedin.com/)
 
+**Developer:** Matheus Prestes [LinkedIn](https://www.linkedin.com/in/mateus-prestes-11569118a/)
+
 **Developer:** Davi Silva Martins das Neves [LinkedIn](https://www.linkedin.com/in/davi-neves-a50573201/)
 
 
