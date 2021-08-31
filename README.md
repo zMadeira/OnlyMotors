@@ -1,7 +1,7 @@
 # OnlyMotors
 Projeto API - 5º Semestre com a empresa GSW para desenvolvimento de loja de veículos online.
 
-# 📚Team  
+#🎓Team  
 **Scrum Master/Developer:** Guilherme Oliveira Pontes Alvarenga  [LinkedIn](https://www.linkedin.com/in/guilherme-oliveira-14a9b8175/)
 
 **Product Owner/Developer:** Pedro Cruz Oliveira Araújo [LinkedIn](https://www.linkedin.com/in/pedro-cruz77/)
@@ -19,7 +19,7 @@ Projeto API - 5º Semestre com a empresa GSW para desenvolvimento de loja de ve�
 
 <hr>
 
-# ⚡Sprints
+# 📃Sprints
 | Sprint                                                              | Data de Entrega |
 | ------------------------------------------------------------------- | --------------- |
 | [Kick-off do Projeto]() | 22 de agosto de 2021     |
@@ -29,6 +29,50 @@ Projeto API - 5º Semestre com a empresa GSW para desenvolvimento de loja de ve�
 | [Sprint 4]() | 28 de novembro de 2021 |
 | [Apresentação Final]() | 05 de dezembro de 2021 |
 | [Feira de soluções]() | 16 de dezembro de 2021 |
+
+
+<hr>
+
+<hr>
+
+# 📆Entregas - Funcionalidades
+
+ 
+| Sprint 1 - Protótipo CRUD de anúncios:                  | Conclusão|
+| ------------------------------------------------------------------- | --------------- |
+| Funcionalidades de CREATE e READ |    |
+| O usuário deve ser capaz de anunciar seu veículo através da plataforma. |  |
+| O anúncio deve estar visível para todos os usuários. |  |
+| O cadastro do anúncio deve estar disponível na base de dados. |  |
+| **Requisitos Funcionais Associados:** RF1, RF4. |  |
+
+<hr>
+
+| Sprint 2 - Protótipo de painel de anúncio - CRUD final de anúncios: | Conclusão |
+| ------------------------------------------------------------------- | --------------- |
+| Tela de cadastro para novos usuários. |  |
+| Possibilidade de exclusão de cadastro. |  |
+| Sistema de Login e Logout para usuários cadastrados.    |  |
+| O usuário pode atualizar ou retirar um anúncio do ar - UPDATE e DELETE.    |  |
+| Painel de gerenciamento de anúncios do usuário com informações particulares    |  |
+| **Requisitos Funcionais Associados:** RF2, RF4, RF7. |  |
+
+<hr>
+
+| Sprint 3 - Relatórios - Importação de arquivos:                                 | Conclusão |
+| ------------------------------------------------------------------- | --------------- |
+| Cadastro de anúncios a partir de um arquivo CSV. |  |
+| Template de CSV disponibilizado pela aplicação. |  |
+| Geração de relatório com anúncio - PDF com as informações. |  |
+| **Requisitos Funcionais Associados:** RF1, RF4, RF7. |  |
+
+<hr>
+
+
+| Sprint 4 - Adicionar Revisão:                                       | Conclusão |
+| ------------------------------------------------------------------- | --------------- |
+|  Usuário poderá pedir a revisão de uma ata existente, devendo informar o assunto da revisão Responsável da Revisão e Prazo da Revisão. Revisões pode ser incluídas, alteradas e excluídas quantas vezes forem necessárias|  |
+
 
 
 <hr>
