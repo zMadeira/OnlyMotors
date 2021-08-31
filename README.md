@@ -52,7 +52,7 @@ Projeto API - 5º Semestre com a empresa GSW para desenvolvimento de loja de ve�
 | Documento de estratégia de branchs/versionamento.   |  |
 | Documentação das APIs. |  |
 | Relatório com histórico de build automatizado.  |  |
-| **Requisitos Funcionais Associados:** RF1, RF4. |  |
+| **Requisitos Funcionais Associados:** RF1, RF4, RF5. |  |
 
 <hr>
 
@@ -67,23 +67,23 @@ Projeto API - 5º Semestre com a empresa GSW para desenvolvimento de loja de ve�
 
 <hr>
 
-| Sprint 3 - Relatórios - Importação de arquivos:                                 | Conclusão |
+| Sprint 3 - Comunicação Cliente e Comprador:                                 | Conclusão |
 | ------------------------------------------------------------------- | --------------- |
 | Cadastro de anúncios a partir de um arquivo CSV. |  |
 | Template de CSV disponibilizado pela aplicação. |  |
 | Chat simples em tempo real entre cliente e comprador. |  |
-| Atualização da documentação conforme as entregas. |  |
+| Atualização no painel para apresentar informações de contato |  |
 | Pesquisa de anúncios. |  |
-| **Requisitos Funcionais Associados:** RF1, RF4, RF7. |  |
+| **Requisitos Funcionais Associados:** RF3, RF4, RF5, RF6. |  |
 
 <hr>
 
 
-| Sprint 4 - Comunicação cliente e comprador:                                       | Conclusão |
+ | Sprint 4 - Relatórios - Importação de arquivos:                                       | Conclusão |
 | ------------------------------------------------------------------- | --------------- |
 | Geração de relatório com anúncio - PDF com as informações. |  |
-| Atualização no painel para apresentar informações de contato |  |
-| **Requisitos Funcionais Associados:** RF3, . |  |
+| Atualização da documentação conforme as entregas. |  |
+| **Requisitos Funcionais Associados:** RF8. |  |
 
 
 
