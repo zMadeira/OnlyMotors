@@ -3,7 +3,7 @@ Projeto API - 5º Semestre com a empresa GSW para desenvolvimento de loja de ve�
 
 #🎓Team  
 
-**Scrum Master/Developer:** Guilherme Oliveira Pontes Alvarenga  [LinkedIn](https://www.linkedin.com/in/guilherme-oliveira-14a9b8175/)
+**Scrum Master/Developer:** Guilherme Oliveira Pontes Alvarenga [LinkedIn](https://www.linkedin.com/in/guilherme-oliveira-14a9b8175/)
 
 **Product Owner/Developer:** Pedro Cruz Oliveira Araújo [LinkedIn](https://www.linkedin.com/in/pedro-cruz77/)
 
