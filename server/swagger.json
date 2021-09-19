@@ -1,0 +1,110 @@
+{
+    "openapi":"3.0.3",
+    "info": {
+        "title": "Only Motors",
+        "description": "Documentation from Only Motors API's",
+        "version": "1.0.0"
+    },
+    "basePath":"/",
+    "components":{
+
+    },
+    "paths": {
+        "/anuncios":{
+            "get":{
+                "description":"Rota responsável por buscar todos os registros existentes na collection de anuncios",
+                "Sumary": "Busca dos anuncios registrados no banco",
+                "tags": ["Anuncios"],
+                "responses":{
+                    "200":{
+                        "descrption": "OK"
+                    }   
+                }
+            }
+        },
+        "/anuncioByCod_user":{
+            "get":{
+                "description":"Rota responsável por buscar todos os anúncios existentes na collection que foram registrados por um usuário específico.",
+                "Sumary": "Busca dos anuncios de um usúario registrados no banco",
+                "tags": ["Anuncios"],
+                "parameters": [
+                    {
+                        "in":"query",
+                        "name":"cod_user",
+                        "required":true,
+                        "description": "código do usúario registrado no banco de dados",
+                        "schema":{
+                            "type":"integer"
+                        },
+                        "example":"1234"
+                    }
+                ],
+                "responses":{
+                    "200":{
+                        "description": "OK"
+                    }
+                    
+                }
+            }
+
+        },
+        "/anuncioById":{
+            "get":{
+                "description":"Rota responsável por buscar um anúncio por meio do _ID registrado no cluster",
+                "Sumary": "Busca um registro na collection de anúncios",
+                "tags": ["Anuncios"],
+                "parameters": [
+                    {
+                        "in":"query",
+                        "name":"id",
+                        "required":true,
+                        "description": "_id do registro no banco de dados",
+                        "schema":{
+                            "type":"string"
+                        },
+                        "example":"6144084cb15bc19651a4e189"
+                        
+                    }
+                ],
+                "responses":{
+                    "200":{
+                        "description": "OK"
+                    }
+                    
+                }
+            }
+            
+        },
+        "/add_anuncio":{
+            "post":{
+                "description": "Rota responsável por alimentar a collection de anuncios a partir de um arquivo .csv. O arquivo CSV deve estar no formato esperado",
+                "Sumary": "Adiciona multiplos registros na collection de anúncios",
+                "tags": ["Anuncios"],
+                "requestBody": {
+                    "content": {
+                        "multipart/form-data": {
+                            "in": "formData",
+                            "required":true,
+                            "schema": {
+                                "type": "object",
+                                "properties": {
+                                    "CSV": {
+                                        "type": "file"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "responses":{
+                    "200":{
+                        "description":"OK"
+                    },
+                    "500":{
+                        "description":"Erro no servidor. Causa possível: Template incorreto do arquivo CSV."
+                    }
+                }
+            }
+        }
+    }
+}
