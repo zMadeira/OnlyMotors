@@ -51,7 +51,7 @@ Projeto API - 5º Semestre com a empresa GSW para desenvolvimento de loja de ve�
 | Documento de implantação | OKAY |
 | Documento de estratégia de branchs/versionamento.   | OKAY |
 | Documentação das APIs. | OKAY |
-| Relatório com histórico de build automatizado.  |  |
+| Relatório com histórico de build automatizado.  | OKAY |
 
 
 <hr>
@@ -94,34 +94,40 @@ Projeto API - 5º Semestre com a empresa GSW para desenvolvimento de loja de ve�
 </br>
 
 ## 1. Anúncios
-<img src="https://i.imgur.com/p6Ba9ac.jpg">
+<img src="https://i.imgur.com/p6Ba9ac.jpg" alt="drawing" width="150">
 
 ## 2. Menu lateral
-<img src="https://i.imgur.com/IgmAPCT.jpg">
+<img src="https://i.imgur.com/IgmAPCT.jpg"
+alt="drawing" width="150">
 
 ## 3. Inserir Anúncio
-<img src="https://i.imgur.com/KKAkcNt.jpg">
+<img src="https://i.imgur.com/KKAkcNt.jpg"
+alt="drawing" width="150">
 
 ## 4. Progresso de upload
-<img src="https://i.imgur.com/mkpMr09.jpg">
+<img src="https://i.imgur.com/mkpMr09.jpg"
+alt="drawing" width="150">
 
 ## 5. Anúncio selecionado
-<img src="https://i.imgur.com/s1iLHZn.jpg">
+<img src="https://i.imgur.com/s1iLHZn.jpg"
+alt="drawing" width="150">
 </br>
 </br>
 
-# Funcionamento
+# ⌛ Funcionamento
 </br>
-<img src="https://i.imgur.com/goi9H63.gif">
+<img src="https://i.imgur.com/goi9H63.gif"
+alt="drawing" width="150">
 </br>
 </br>
 
 # 🧰 Tecnologias
 </br>
 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/Expo%20Go-black?style=for-the-badge&logo=expo&logoColor=white"> 
+</br>
 <img src="https://img.shields.io/badge/MongoDB-8bbf3d?style=for-the-badge&logo=MongoDB&logoColor=white  ">
 <img src="https://img.shields.io/badge/Node.js-8bbf3d?style=for-the-badge&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/swagger-8bbf3d?style=for-the-badge&logo=swagger&logoColor=white"> 
@@ -135,7 +141,7 @@ Projeto API - 5º Semestre com a empresa GSW para desenvolvimento de loja de ve�
   <li><b>Frontend</b></li>
     <ul>
     <li><b>dependências do frontend</b></li> 
-     Executar o comando.<br/>
+     Executar o comando:<br/>
      
   ```bash
   $ cd client
@@ -143,6 +149,9 @@ Projeto API - 5º Semestre com a empresa GSW para desenvolvimento de loja de ve�
   $ npm install --global expo-cli
   $ expo start
   ```
+  </br>
+    Alterar o endereço do server conforme o arquivo:
+    <a href="https://github.com/zMadeira/OnlyMotors/blob/develop/client/src/services/variaveis.js">variaveis.js</a>
   </ul>
 </ul>
 
@@ -164,5 +173,5 @@ Projeto API - 5º Semestre com a empresa GSW para desenvolvimento de loja de ve�
     <ul>
     <li><b>dependências do BD</b></li> 
      Acessar o link para download.<br/>
-     <a>https://www.mongodb.com/try/download/community</a>
+     <a href="https://www.mongodb.com/try/download/community">MongoDB Community</a>
 </ul>
