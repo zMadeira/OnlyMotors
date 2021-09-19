@@ -94,43 +94,38 @@ Projeto API - 5º Semestre com a empresa GSW para desenvolvimento de loja de ve�
 </br>
 
 ## 1. Anúncios
-<img src="https://i.imgur.com/p6Ba9ac.jpg" alt="drawing" width="150">
+<img src="https://i.imgur.com/p6Ba9ac.jpg" alt="drawing" width="300">
 
 ## 2. Menu lateral
 <img src="https://i.imgur.com/IgmAPCT.jpg"
-alt="drawing" width="150">
+alt="drawing" width="300">
 
 ## 3. Inserir Anúncio
 <img src="https://i.imgur.com/KKAkcNt.jpg"
-alt="drawing" width="150">
+alt="drawing" width="300">
 
 ## 4. Progresso de upload
 <img src="https://i.imgur.com/mkpMr09.jpg"
-alt="drawing" width="150">
+alt="drawing" width="300">
 
 ## 5. Anúncio selecionado
 <img src="https://i.imgur.com/s1iLHZn.jpg"
-alt="drawing" width="150">
+alt="drawing" width="300">
 </br>
 </br>
 
 # ⌛ Funcionamento
 </br>
-<img src="https://i.imgur.com/goi9H63.gif"
-alt="drawing" width="150">
+<img src="https://i.imgur.com/goi9H63.gif" width="300">
 </br>
 </br>
 
 # 🧰 Tecnologias
 </br>
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/Expo%20Go-black?style=for-the-badge&logo=expo&logoColor=white"> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Expo%20Go-black?style=for-the-badge&logo=expo&logoColor=white"> 
 </br>
-<img src="https://img.shields.io/badge/MongoDB-8bbf3d?style=for-the-badge&logo=MongoDB&logoColor=white  ">
-<img src="https://img.shields.io/badge/Node.js-8bbf3d?style=for-the-badge&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/swagger-8bbf3d?style=for-the-badge&logo=swagger&logoColor=white"> 
+<img src="https://img.shields.io/badge/MongoDB-8bbf3d?style=for-the-badge&logo=MongoDB&logoColor=white  "> <img src="https://img.shields.io/badge/Node.js-8bbf3d?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/swagger-8bbf3d?style=for-the-badge&logo=swagger&logoColor=white"> 
 </br>
 </br>
 
@@ -150,7 +145,7 @@ alt="drawing" width="150">
   $ expo start
   ```
   </br>
-    Alterar o endereço do server conforme o arquivo:
+    Alterar o endereço do server conforme o arquivo:</br>
     <a href="https://github.com/zMadeira/OnlyMotors/blob/develop/client/src/services/variaveis.js">variaveis.js</a>
   </ul>
 </ul>
@@ -172,6 +167,6 @@ alt="drawing" width="150">
   <li><b>Banco de Dados</b></li>
     <ul>
     <li><b>dependências do BD</b></li> 
-     Acessar o link para download.<br/>
+     Acessar o link para download:<br/>
      <a href="https://www.mongodb.com/try/download/community">MongoDB Community</a>
 </ul>
