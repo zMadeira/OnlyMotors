@@ -116,7 +116,7 @@ alt="drawing" width="300">
 
 # ⌛ Funcionamento
 </br>
-<img src="https://i.imgur.com/goi9H63.gif" width="300">
+<img src="https://i.imgur.com/M9OCMIN.gif" width="300">
 </br>
 </br>
 
