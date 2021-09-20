@@ -129,6 +129,12 @@ alt="drawing" width="300">
 </br>
 </br>
 
+# 📉 Burndown
+</br>
+<img src="https://i.imgur.com/i9cVdMf.png">
+</br>
+</br>
+
 # ⚙️ Instruções de Instalação
 </br>
 
