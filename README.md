@@ -25,7 +25,7 @@ Projeto API - 5º Semestre com a empresa GSW para desenvolvimento de loja de ve�
 # 📃Sprints
 | Sprint                                                              | Data de Entrega |
 | ------------------------------------------------------------------- | --------------- |
-| [Kick-off do Projeto]() | 22 de agosto de 2021     |
+| Kick-off do Projeto | 22 de agosto de 2021     |
 | [Sprint 1]() | 19 de setembro de 2021     |
 | Sprint 2 | 10 de outubro de 2021     |
 | Sprint 3 | 07 de novembro de 2021     |
